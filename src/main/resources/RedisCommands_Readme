@@ -1,0 +1,9 @@
+
+** Get all keys
+> keys *
+
+** Get selected hash 
+> hgetall employee:10001
+
+** Get selected value from the hash
+> hget employee:10001 gender
